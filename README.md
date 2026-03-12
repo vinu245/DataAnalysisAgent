@@ -7,14 +7,8 @@ The system intelligently detects dataset structure, enables SQL querying, and pr
 ---
 
 ## 🚀 Live Demo
-🔗 Streamlit App: [Add Streamlit Link Here]
+🔗 Streamlit App: [https://dataanalysisagent-vcg88qcz9emtmmtvkjnget.streamlit.app/]
 
-🎥 Demo Video: [Add Video Link]
-
----
-
-## 📂 GitHub Repository
-🔗 https://github.com/yourusername/AI-Sales-Monitoring-Dashboard
 
 ---
 
