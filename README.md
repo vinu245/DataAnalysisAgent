@@ -195,7 +195,7 @@ streamlit run app.py
 Aspiring **Data Scientist | Data Analyst | AI Enthusiast**
 
 🔗 LinkedIn: [https://www.linkedin.com/in/vinutha-s-1217783b2/]  
-🔗 GitHub: https://github.com/vinu245
+🔗 GitHub: [https://github.com/vinu245/DataAnalysisAgent]
 
 ---
 
